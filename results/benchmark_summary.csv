@@ -1,0 +1,5 @@
+Configuration,Embedding Model,Avg Latency (ms),Accuracy Level
+BM25,N/A,210.93034003861248,Medium
+Brute Force,MiniLM,21.432279981672764,High
+HNSW (ChromaDB),MiniLM,5.473990028258413,High
+HNSW (Pinecone),MiniLM,539.7291450295597,Very High
